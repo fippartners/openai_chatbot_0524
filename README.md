@@ -1,0 +1,2 @@
+# openai_chatbot_0524
+UdemyのopenAIとChatbotの構築（Streamlit使用）
